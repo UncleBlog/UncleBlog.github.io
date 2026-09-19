@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# 蜀黍的博客
 
-You can use the [editor on GitHub](https://github.com/UncleBlog/UncleBlog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> 记录技术、生活，和一些想说的话。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你好，我是 **UncleBlog**（蜀黍）。  
+这里是我的个人博客，用来存放一些平时写下的东西。
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 📝 最近在写
 
-```markdown
-Syntax highlighted code block
+- *（还没开始写，第一篇文章正在路上）*
 
-# Header 1
-## Header 2
-### Header 3
+## 🧭 关于我
 
-- Bulleted
-- List
+- 💻 喜欢折腾代码和工具
+- 🌱 正在学习：*（待填写）*
+- 📚 最近在读：*（待填写）*
+- 🎧 写代码时听：*（待填写）*
 
-1. Numbered
-2. List
+## 📮 找到我
 
-**Bold** and _Italic_ and `Code` text
+- GitHub: [@UncleBlog](https://github.com/UncleBlog)
+- Email: *（待填写）*
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UncleBlog/UncleBlog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<sub>© 2026 UncleBlog · Powered by GitHub Pages</sub>
